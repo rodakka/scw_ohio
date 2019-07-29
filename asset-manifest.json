@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/scw_ohio/static/css/main.8a51d6e0.chunk.css",
+    "main.js": "/scw_ohio/static/js/main.4ef28c86.chunk.js",
+    "main.js.map": "/scw_ohio/static/js/main.4ef28c86.chunk.js.map",
+    "runtime~main.js": "/scw_ohio/static/js/runtime~main.5475b4d8.js",
+    "runtime~main.js.map": "/scw_ohio/static/js/runtime~main.5475b4d8.js.map",
+    "static/css/2.154b4c07.chunk.css": "/scw_ohio/static/css/2.154b4c07.chunk.css",
+    "static/js/2.73b982c9.chunk.js": "/scw_ohio/static/js/2.73b982c9.chunk.js",
+    "static/js/2.73b982c9.chunk.js.map": "/scw_ohio/static/js/2.73b982c9.chunk.js.map",
+    "index.html": "/scw_ohio/index.html",
+    "precache-manifest.7d0cc1b809ff3cc47b7576da857c785b.js": "/scw_ohio/precache-manifest.7d0cc1b809ff3cc47b7576da857c785b.js",
+    "service-worker.js": "/scw_ohio/service-worker.js",
+    "static/css/2.154b4c07.chunk.css.map": "/scw_ohio/static/css/2.154b4c07.chunk.css.map",
+    "static/css/main.8a51d6e0.chunk.css.map": "/scw_ohio/static/css/main.8a51d6e0.chunk.css.map",
+    "static/media/Hall-Of-Fame.png": "/scw_ohio/static/media/Hall-Of-Fame.a51025f8.png",
+    "static/media/mdb.css": "/scw_ohio/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/comingSoon.jpg": "/scw_ohio/static/media/comingSoon.469530c3.jpg",
+    "static/media/all.min.css": "/scw_ohio/static/media/fa-solid-900.f14c3b2f.ttf",
+    "static/media/logo.png": "/scw_ohio/static/media/logo.c0817acb.png",
+    "static/media/index.css": "/scw_ohio/static/media/mainBg.c16de435.png",
+    "static/media/newItems.png": "/scw_ohio/static/media/newItems.6f69f35c.png",
+    "static/media/under_construction.png": "/scw_ohio/static/media/under_construction.13d36577.png"
+  }
+}
